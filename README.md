@@ -1,2 +1,2 @@
-# Chatterino Classic
-Custom version of chatterino that is working on the varius issues it has
+# Botterino
+Runs a bot on top of the chatterino interface
